@@ -1,4 +1,4 @@
-# Heap-Management: Virtual Memory Allocation using Buddy System
+# Heap-Management : Virtual Memory Allocation using Buddy System
 This project implements a virtual heap-memory management system in C, designed to simulate dynamic memory allocation and deallocation.
 
 ## Project Overview
